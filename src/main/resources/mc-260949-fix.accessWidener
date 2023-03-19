@@ -1,0 +1,6 @@
+accessWidener v1 named
+
+accessible method net/minecraft/client/gui/screen/world/WorldCreator updateDataConfiguration (Lnet/minecraft/resource/DataConfiguration;)Z
+accessible method net/minecraft/client/gui/screen/world/WorldCreator updateWorldTypeLists ()V
+accessible method net/minecraft/client/gui/screen/world/WorldCreator getWorldPreset (Lnet/minecraft/client/world/GeneratorOptionsHolder;Ljava/util/Optional;)Ljava/util/Optional;
+accessible field net/minecraft/client/gui/screen/world/WorldCreator worldType Lnet/minecraft/client/gui/screen/world/WorldCreator$WorldType;
